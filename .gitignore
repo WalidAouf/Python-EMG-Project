@@ -1,0 +1,17 @@
+# Byte-compiled / Cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# PyCharm settings
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
